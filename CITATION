@@ -1,0 +1,20 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+    The Tanglenomicon: A Table of Two String Arborescent Tangles Up to 16 Crossings
+message: 'If you use this data, please cite it as below.'
+authors:
+  - family-names: Starr
+    given-names: Joseph
+  - family-names: Isabel
+    given-names: Darcy
+identifiers:
+  - type: doi
+    value: na
+repository-code: 'https://github.com/Uiowa-Applied-Topology/tanglenomicon_arborescent_tangles'
+abstract: >-
+    A computer readable table of two string arborescent tangles up to 16 crossings.
+license: CC-BY-NC-SA-4.0
+date-released: '2025-07-29'
