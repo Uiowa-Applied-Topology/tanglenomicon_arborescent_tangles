@@ -1,9 +1,7 @@
 # The Tanglenomicon: A Table of Two String Arborescent Tangles Up to 16 Crossings
 
 
-
-[![DOI](https://zenodo.org/badge/1025252094.svg)](https://doi.org/10.5281/zenodo.17612688)
-
+[![DOI - 10.5281/zenodo.17612688](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17612688-2ea44f?logo=doi)](https://doi.org/10.5281/zenodo.17612688)
 [![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 This repository contains a list of all arborescent tangles up to 16 crossings.
