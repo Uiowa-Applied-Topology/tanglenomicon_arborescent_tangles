@@ -12,9 +12,9 @@ authors:
     given-names: Darcy
 identifiers:
   - type: doi
-    value: na
+    value: 10.5281/zenodo.17612689
 repository-code: 'https://github.com/Uiowa-Applied-Topology/tanglenomicon_arborescent_tangles'
 abstract: >-
     A computer readable table of two string arborescent tangles up to 16 crossings.
 license: CC-BY-NC-SA-4.0
-date-released: '2025-07-29'
+date-released: '2025-11-14'
